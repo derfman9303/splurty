@@ -8,6 +8,7 @@
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
     <link href="https://fonts.googleapis.com/css?family=Work+Sans&display=swap" rel="stylesheet">
+    <link href="footer.scss" rel="stylesheet">
   </head>
 
   <body>
@@ -32,6 +33,20 @@
     </header>
     <hr>
     <br class="clear" />
+    <div class="container">
     <%= yield %>
+    </div>
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-6">
+            <%= link_to "This isn't enough, I need more", "#", class: 'next-quote' %>
+          </div>
+          <div class="col-6 footer-blurb">
+            Proudly shummed to life in WI by <a href="C:/Users/frede/Desktop/class files/portfolio/index.html">Fred</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
