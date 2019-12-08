@@ -4,7 +4,7 @@
 
 A database-powered quote generator with a mobile-first design, using the Ruby on Rails framework, HTML, and CSS. Uses Git and GitHub for version control, and launched on Heroku.
 
-You may visit the deployed version [here](https://flixter-frederic-hodges.herokuapp.com/).
+You may visit the deployed version [here](https://splurty-frederichodges.herokuapp.com/).
 
 ![Splurty app screenshot](app/assets/images/splurty.PNG "Splurty app screenshot")
 
