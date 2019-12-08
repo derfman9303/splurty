@@ -2,11 +2,11 @@
 
 ## What this app is:
 
-A two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
+A database-powered quote generator with a mobile-first design, using the Ruby on Rails framework, HTML, and CSS. Uses Git and GitHub for version control, and launched on Heroku.
 
 You may visit the deployed version [here](https://flixter-frederic-hodges.herokuapp.com/).
 
-![Flixter app screenshot](app/assets/images/splurty.PNG "Flixter app screenshot")
+![Splurty app screenshot](app/assets/images/splurty.PNG "Splurty app screenshot")
 
 ***
 # Setup
@@ -21,11 +21,11 @@ You may visit the deployed version [here](https://flixter-frederic-hodges.heroku
   
 1. **Clone repo:**
        
-        git@github.com:derfman9303/flixter.git
+        git@github.com:derfman9303/splurty.git
         
-2. **On the command line, navigate to the Flixter directory**
+2. **On the command line, navigate to the Splurty directory**
         
-        cd flixter
+        cd splurty
 
 3. **Create the database**
         
@@ -62,6 +62,4 @@ If you would like, you may push your app up to Heroku by running the following c
         
         git push heroku master
  
- ***
-# Notes
-This app integrates with a third party API called Stripe to process creit card payments. for more information visit [their website.](https://stripe.com/)
+
