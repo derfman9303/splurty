@@ -6,8 +6,8 @@ A two-sided, video-streaming marketplace platform that features credit card paym
 
 You may visit the deployed version [here](https://flixter-frederic-hodges.herokuapp.com/).
 
-![Flixter app screenshot](app/assets/images/flixter.PNG "Flixter app screenshot")
-![Flixter app screenshot](app/assets/images/flixter2.PNG "Flixter app screenshot")
+![Flixter app screenshot](app/assets/images/splurty.PNG "Flixter app screenshot")
+
 ***
 # Setup
 
