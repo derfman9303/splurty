@@ -44,6 +44,7 @@ You may visit the deployed version [here](https://splurty-frederichodges.herokua
 
 You may now visit your app at http://localhost:3030
 
+Using this app is quite simple. You may view random quotes stored in the database by clicking "This isn't enough, I need more". To add your own quotes, click "Contribute" at the top of the page.
 
 ***
 # Deployment
